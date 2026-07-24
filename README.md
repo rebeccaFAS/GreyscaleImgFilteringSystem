@@ -9,4 +9,4 @@ This branch includes:
   python code: python filtered image compared with VHDL filtered image results, namely gray scale filtered image through VHDL workflow and filtered one through python numpy library, performance evaluation and absolute error map generation between Python and VHDL outputs, i.e. asbolute error computation, peak SNR computation, SSMI and DSSIM value comparison;
   ppt: to show the result and future implementation.
   
-- At the moment the italian version is only available but work is being made to translate it to english -
+                                 At the moment the italian version is only available but work is being made to translate it to english 
